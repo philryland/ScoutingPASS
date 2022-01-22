@@ -1,6 +1,6 @@
 var config_data = `
 {
-  "title":"Scouting PASS 2022",
+  "title":"Scouting PASS 2022 Ram",
   "page_title":"Rapid React",
   "elements":{
     "prematch": {
